@@ -48,6 +48,6 @@
 ## 7.0 [Databases](https://www.oracle.com/database/what-is-database/#:~:text=A%20database%20is%20an%20organized,database%20management%20system%20(DBMS))
 ### 7.1 [Sql](https://www.w3schools.com/sql/sql_intro.asp)
 * ### 7.1.1 [Postgresql](https://www.postgresqltutorial.com/)
-* * * * [Freecodecamp](https://youtu.be/qw--VYLpxG4)
+* * * [Freecodecamp](https://youtu.be/qw--VYLpxG4)
 * 
 * 
