@@ -11,4 +11,10 @@
 ### 2.1 English
 *  [Bro code](https://youtu.be/8dWL3wF_OMw)
 *  [Traversy Media](https://youtu.be/hdI2bqOjy3c)
-*  
+*  [Freecodecamp](https://youtu.be/jS4aFq5-91M)
+### 2.2 Uzbek
+* [Farhod Dadajonov](https://youtu.be/DFyzRUsLwYE)
+* [Bexruz Xolmuminov](https://youtu.be/vpwLVcuQqIo)
+* [Saidbek Arislonov](https://youtu.be/QUMzEd8XCkI)
+## 3 [Node.js](https://nodejs.org/docs/latest-v20.x/api/)
+### [Download and Install Node.js](https://nodejs.dev/en/download/)
