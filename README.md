@@ -17,7 +17,6 @@
 * [Bexruz Xolmuminov](https://youtu.be/vpwLVcuQqIo)
 * [Saidbek Arislonov](https://youtu.be/QUMzEd8XCkI)
 ## 3. [Node.js](https://nodejs.org/docs/latest-v20.x/api/)
-* ### 3.1 [Download and Install Node.js](https://nodejs.dev/en/download/)
-* [Windows](https://www.geeksforgeeks.org/installation-of-node-js-on-windows/)
-*  
+* ### 3.1 [Download and Install Node.js](https://kinsta.com/blog/how-to-install-node-js/)
+
 
