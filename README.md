@@ -18,4 +18,13 @@
 ## 3. [Node.js](https://nodejs.org/docs/latest-v20.x/api/)
 * ### 3.1 [Download and Install Node.js](https://kinsta.com/blog/how-to-install-node-js/)
 
+## 4. [Node.js Core](https://nodejs.org/en/docs/guides)
+### 4.1 English
+*  [Freecodecamp](https://youtu.be/RLtyhwFtXQA)
+*  [Programming with Mosh](https://youtu.be/TlB_eWDSMt4)
+*  [Cododev](https://youtu.be/r6zX7Zsew-A)
+### Uzbek
+* [Bexruz Xolmuminov](https://youtu.be/aJS_K97Uj64)
+* [Farhod Dadajonov](https://youtu.be/69pxFJF5SkY)
+* [Samar Badriddinov](https://youtu.be/3JPxWsKSruU)
 
