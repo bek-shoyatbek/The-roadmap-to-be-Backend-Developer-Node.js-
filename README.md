@@ -6,3 +6,6 @@
 ###  1.2 [Uzbek](https://youtu.be/wmiLwVV19c4)
 
 ## 2. [You must know Javascript](https://javascript.info/)
+### 2.1 English
+* something
+* something
